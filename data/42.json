@@ -1,0 +1,20 @@
+{
+    "id": 100841803,
+    "name": "Dashplorers",
+    "author": "RuebeXPX",
+    "creators": [
+        "RuebeXPX"
+    ],
+    "verifier": "DaanPGd",
+    "verification": "",
+    "percentToQualify": "100",
+    "password": "temp",
+    "records": [
+        {
+            "user": "SamFinn",
+            "link": "",
+            "percent": 100,
+            "hz": 60
+        }
+    ]
+}

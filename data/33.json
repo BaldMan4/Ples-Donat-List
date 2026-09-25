@@ -1,0 +1,20 @@
+{
+    "id": 6939821,
+    "name": "Jawbreaker",
+    "author": "ZenthicAlpha",
+    "creators": [
+        "ZenthicAlpha"
+    ],
+    "verifier": "BaldMan4",
+    "verification": "",
+    "percentToQualify": "100",
+    "password": "temp",
+    "records": [
+        {
+            "user": "DaanPGD",
+            "link": "",
+            "percent": 100,
+            "hz": 240
+        }
+    ]
+}

@@ -1,0 +1,20 @@
+{
+    "id": 126657080,
+    "name": "The End is Here",
+    "author": "Doggie",
+    "creators": [
+        "Doggie"
+    ],
+    "verifier": "BaldMan4",
+    "verification": "",
+    "percentToQualify": "100",
+    "password": "temp",
+    "records": [
+        {
+            "user": "SamFinn",
+            "link": "",
+            "percent": 100,
+            "hz": 60
+        }
+    ]
+}

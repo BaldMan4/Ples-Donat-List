@@ -1,0 +1,26 @@
+{
+    "id": 40945673,
+    "name": "CraZy",
+    "author": "DavJT",
+    "creators": [
+        "DavJT"
+    ],
+    "verifier": "SamFinn",
+    "verification": "",
+    "percentToQualify": "100",
+    "password": "temp",
+    "records": [
+        {
+            "user": "DaanPGD",
+            "link": "",
+            "percent": 100,
+            "hz": 240
+        },
+        {
+            "user": "BaldMan4",
+            "link": "",
+            "percent": 100,
+            "hz": 144
+        }
+    ]
+}
