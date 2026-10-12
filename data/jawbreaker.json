@@ -15,6 +15,12 @@
             "link": "",
             "percent": 100,
             "hz": 240
+        },
+        {
+            "user": "SamFinn",
+            "link": "",
+            "percent": 100,
+            "hz": 60
         }
     ]
 }
